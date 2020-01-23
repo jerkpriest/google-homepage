@@ -1,9 +1,9 @@
-<style>
-      .img-container {
-        text-align: center;
-	top: 50%;
+img{
+        position: relative;
+	margin-left: 40%;
+	margin-top: 15%;
       }
-	form {
+form {
 	text-align: center;
 	}
-    </style>
+ 
