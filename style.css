@@ -1,9 +1,20 @@
 img{
-        position: relative;
+        float: center;
+	position: relative;
 	margin-left: 40%;
 	margin-top: 15%;
       }
 form {
 	text-align: center;
 	}
- 
+.right {
+	float: right;
+
+	}
+.left {
+	float: left;
+	}
+li {
+	display: inline;
+	padding: 8px;
+	}
